@@ -1,2 +1,2 @@
-# Fashion-Advice
-Tool to find a CSS selector in a website
+# Fashion Advice
+A tool to help you find your style! Get it?
