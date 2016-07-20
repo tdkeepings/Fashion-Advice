@@ -1,0 +1,30 @@
+c:\users\tom\documents\visual studio 2012\Projects\FindCSSInHTML\FindCSSInHTML\obj\Debug\FindCSSInHTML.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2012\Projects\FindCSSInHTML\FindCSSInHTML\bin\Debug\FindCSSInHTML.exe.config
+c:\users\tom\documents\visual studio 2012\Projects\FindCSSInHTML\FindCSSInHTML\bin\Debug\FindCSSInHTML.exe
+c:\users\tom\documents\visual studio 2012\Projects\FindCSSInHTML\FindCSSInHTML\bin\Debug\FindCSSInHTML.pdb
+c:\users\tom\documents\visual studio 2012\Projects\FindCSSInHTML\FindCSSInHTML\bin\Debug\Fizzler.dll
+c:\users\tom\documents\visual studio 2012\Projects\FindCSSInHTML\FindCSSInHTML\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+c:\users\tom\documents\visual studio 2012\Projects\FindCSSInHTML\FindCSSInHTML\bin\Debug\HtmlAgilityPack.CssSelectors.dll
+c:\users\tom\documents\visual studio 2012\Projects\FindCSSInHTML\FindCSSInHTML\bin\Debug\HtmlAgilityPack.dll
+c:\users\tom\documents\visual studio 2012\Projects\FindCSSInHTML\FindCSSInHTML\bin\Debug\Fizzler.xml
+c:\users\tom\documents\visual studio 2012\Projects\FindCSSInHTML\FindCSSInHTML\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
+c:\users\tom\documents\visual studio 2012\Projects\FindCSSInHTML\FindCSSInHTML\bin\Debug\HtmlAgilityPack.pdb
+c:\users\tom\documents\visual studio 2012\Projects\FindCSSInHTML\FindCSSInHTML\bin\Debug\HtmlAgilityPack.xml
+c:\users\tom\documents\visual studio 2012\Projects\FindCSSInHTML\FindCSSInHTML\bin\Debug\HtmlAgilityPack.CssSelectors.pdb
+c:\users\tom\documents\visual studio 2012\Projects\FindCSSInHTML\FindCSSInHTML\obj\Debug\FindCSSInHTML.exe
+c:\users\tom\documents\visual studio 2012\Projects\FindCSSInHTML\FindCSSInHTML\obj\Debug\FindCSSInHTML.pdb
+C:\Sandbox\Tools\FindCSSInHTML\FindCSSInHTML\bin\Debug\FindCSSInHTML.exe.config
+C:\Sandbox\Tools\FindCSSInHTML\FindCSSInHTML\obj\Debug\FindCSSInHTML.exe
+C:\Sandbox\Tools\FindCSSInHTML\FindCSSInHTML\obj\Debug\FindCSSInHTML.pdb
+C:\Sandbox\Tools\FindCSSInHTML\FindCSSInHTML\bin\Debug\FindCSSInHTML.exe
+C:\Sandbox\Tools\FindCSSInHTML\FindCSSInHTML\bin\Debug\FindCSSInHTML.pdb
+C:\Sandbox\Tools\FindCSSInHTML\FindCSSInHTML\bin\Debug\Fizzler.dll
+C:\Sandbox\Tools\FindCSSInHTML\FindCSSInHTML\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Sandbox\Tools\FindCSSInHTML\FindCSSInHTML\bin\Debug\HtmlAgilityPack.CssSelectors.dll
+C:\Sandbox\Tools\FindCSSInHTML\FindCSSInHTML\bin\Debug\HtmlAgilityPack.dll
+C:\Sandbox\Tools\FindCSSInHTML\FindCSSInHTML\bin\Debug\Fizzler.xml
+C:\Sandbox\Tools\FindCSSInHTML\FindCSSInHTML\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
+C:\Sandbox\Tools\FindCSSInHTML\FindCSSInHTML\bin\Debug\HtmlAgilityPack.pdb
+C:\Sandbox\Tools\FindCSSInHTML\FindCSSInHTML\bin\Debug\HtmlAgilityPack.xml
+C:\Sandbox\Tools\FindCSSInHTML\FindCSSInHTML\bin\Debug\HtmlAgilityPack.CssSelectors.pdb
+C:\Sandbox\Tools\FindCSSInHTML\FindCSSInHTML\obj\Debug\FindCSSInHTML.csprojResolveAssemblyReference.cache
